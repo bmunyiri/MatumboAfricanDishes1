@@ -1,7 +1,7 @@
 {
-  "name": "matumbo-african-dishes",
+  "name": "matumbo-african-dishes-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Used React Router a standard library for routing in React\nwith   BrowserRouter as Router,  \n    Routes,  \n    Route,  \n    Link  \n}   \nfrom 'react-router-dom';  \nAlso Used the Swiperjs library for the Food Slider.\n",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
