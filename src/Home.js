@@ -1,12 +1,12 @@
-import ChapoMix  from "../../public/images/ChapoMix.jpg";
-import UgaliMix  from "../../public/images/UgaliMix.jpg";
-import Githeri_Rice_Liver_Cabbage from "../../public/images/Githeri_Rice_Liver_Cabbage.jpg";
-import Nyama_Choma  from "../../public/images/Nyama_Choma.jpg";
-import kuku  from "../../public/images/Kuku.jpg";
-import Nyama_Choma_Chapati  from "../../public/images/Nyama_choma_Chapati.jpg";
-import Kachumbari1  from "../../public/images/Kachumbari1.jpg";
-import Kachumbari_salads  from "../../public/images/Kachumbari_salads.jpg";
-import Fried_Tilapia_Ugali from "../../public/images/Fried_Tilapia_Ugali.jpg";
+import ChapoMix  from "./Components/images/ChapoMix.jpg";
+import UgaliMix  from "./Components//images/UgaliMix.jpg";
+import Githeri_Rice_Liver_Cabbage from "./Components/images/Githeri_Rice_Liver_Cabbage.jpg";
+import Nyama_Choma  from "./Components/images/Nyama_Choma.jpg";
+import kuku  from "./Components/images/Kuku.jpg";
+import Nyama_Choma_Chapati  from "./Components/images/Nyama_choma_Chapati.jpg";
+import Kachumbari1  from "./Components/images/Kachumbari1.jpg";
+import Kachumbari_salads  from "./Components/images/Kachumbari_salads.jpg";
+import Fried_Tilapia_Ugali from "./Components/images/Fried_Tilapia_Ugali.jpg";
 
 
 import React, { useRef, useState } from "react";
